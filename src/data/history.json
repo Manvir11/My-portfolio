@@ -1,0 +1,28 @@
+[
+  {
+    "role": "SEO Specialist",
+    "organisation": "Site4U",
+    "startDate": "Feb, 2021",
+    "endDate": "Oct, 2023",
+    "experiences": ["Worked on site4u.ca", "Recomended implementation to make site4u.ca look better."],
+    "imageSrc": "history/site4u.jpg"
+  },
+  {
+    "role": "Website Developer",
+    "organisation": "Site4U",
+    "startDate": "December, 2023",
+    "endDate": "Present",
+    "experiences": ["To be filled in soon", "To be filled in soon"],
+    "imageSrc": "history/site4u.jpg"
+  },
+  {
+    "role": "To be filled in soon",
+    "organisation": "To be filled in soon",
+    "startDate": "To be filled in soon",
+    "endDate": "To be filled in soon",
+    "experiences": [
+      "To be filled in soon",
+      "To be filled in soon"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Obsicle Avoiding/Self Moving Robot",
+    "imageSrc": "projects/robo.jpg",
+    "description": "This is a project made to learn the basics of Arduino and robotics.",
+    "skills": ["C++", "Arduino", "3D printing", "Measurement", "Research", "Circuit designing"],
+    "source": "https://github.com/Manvir11/Self_Moving_Robot"
+  },
+  {
+    "title": "Nerf Projectile Launcher",
+    "imageSrc": "projects/nerf.png",
+    "description": "This is a project made to learn the extensive process of prototyping, designing and 3D printing. It is in the works of making!",
+    "skills": ["C++", "Arduino", "3D printing", "Measurement", "Research", "prototyping", "Autodesk Fusion 360", "Circuit designing"],
+    "source": "https://github.com/Manvir11/Nerf-Projectile-Launcher"
+  },
+  {
+    "title": "manvir.ca",
+    "imageSrc": "projects/manvir.ca.png",
+    "description": "This is a project made to learn the latest languages by building my own portfolio.",
+    "skills": ["ReactJS", "ExpressJS", "NodeJS", "Research", "Designing "],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
